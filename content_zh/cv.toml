@@ -1,3 +1,4 @@
 type = "text"
-title = "简历"
+title = "学术简历"
+description = "简要学术履历。"
 source = "cv.md"

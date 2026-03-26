@@ -1,47 +1,36 @@
 [site]
-title = "Jiale Liu"
-description = "PhD student at the University of Example."
+title = "Jiaming Li"
+description = "Personal academic website of Jiaming Li, focusing on controllable AIGC, multimodal large models, and unified multimodal modeling."
 favicon = "/favicon.svg"
-last_updated = "November 18, 2025"
+last_updated = "March 26, 2026"
 
 [author]
-name = "Jiale Liu"
-title = "PhD Student"
-institution = "University of Example"
+name = "Jiaming Li"
+title = "Undergraduate Researcher"
+institution = "University of Electronic Science and Technology of China"
 avatar = "/bio.jpg"
 
 [social]
-# Contact information (leave blank or delete to hide)
-
-email = "john.doe@example.com"
-location = "City, Country"
-location_url = "https://maps.google.com"
+email = "18955963975@163.com"
+location = "Chengdu, Sichuan, China"
+location_url = "https://maps.google.com/?q=University+of+Electronic+Science+and+Technology+of+China"
 location_details = [
-  "Room 123, Science Building,",
-  "University Avenue, City, Country"
+  "University of Electronic Science and Technology of China,",
+  "Chengdu, Sichuan, China"
 ]
-google_scholar = "https://scholar.google.com"
-orcid = "https://orcid.org"
-github = "https://github.com"
-linkedin = "https://linkedin.com"
+github = "https://github.com/ljm123-ai"
 
 [features]
-# Show a like button on the about page
-enable_likes = true
-
-# Display all subpages on a single page
+enable_likes = false
 enable_one_page_mode = false
 
 [i18n]
 enabled = true
 locales = ["zh", "en"]
 default_locale = "en"
-# "auto" means the locale will be determined by the browser's language setting, "fixed" means the locale will be fixed to the default locale (but can be switched still, if you want to disable, set "enable=false")
 mode = "auto"
 fixed_locale = "en"
-# If true, PRISM will remember user's language preference in browser's localStorage
 persist = true
-# Show a language switcher on the top right corner
 switcher = true
 
 [i18n.labels]
@@ -61,22 +50,22 @@ target = "publications"
 href = "/publications"
 
 [[navigation]]
-title = "Teaching"
+title = "Research"
 type = "page"
-target = "teaching"
-href = "/teaching"
+target = "research"
+href = "/research"
 
 [[navigation]]
-title = "Awards"
+title = "Honors"
 type = "page"
 target = "awards"
 href = "/awards"
 
 [[navigation]]
-title = "Services"
+title = "Competitions"
 type = "page"
-target = "services"
-href = "/services"
+target = "competitions"
+href = "/competitions"
 
 [[navigation]]
 title = "CV"

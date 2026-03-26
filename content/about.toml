@@ -3,27 +3,27 @@ title = "About"
 
 [profile]
 research_interests = [
-  "Computational Physics",
-  "Mathematical Principles",
-  "Proof of Theorems"
+  "Controllable AIGC",
+  "Multimodal Large Models",
+  "Unified Multimodal Modeling",
+  "Diffusion Model Alignment"
 ]
 
 [[sections]]
 id = "about"
 type = "markdown"
 source = "bio.md"
-title = "About"
+title = "Biography"
 
 [[sections]]
 id = "featured_publications"
 type = "publications"
 title = "Selected Publications"
 filter = "selected"
-limit = 5
+limit = 4
 
 [[sections]]
 id = "news"
 type = "list"
-title = "News"
+title = "Recent Updates"
 source = "news.toml"
-

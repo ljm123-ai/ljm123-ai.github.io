@@ -1,5 +1,5 @@
-I am a PhD student at the School of Science, University of Example, advised by [Prof. Advisor One](https://example.com) and [Dr. Advisor Two](https://example.com).
+I am an undergraduate researcher at the University of Electronic Science and Technology of China (UESTC), where I am pursuing a B.Eng. in Computer Technology and a B.S. in Mathematics, both expected in June 2026. I have also been recommended for admission to the M.Eng. program in Computer Technology at Huazhong University of Science and Technology, which I will join in September 2026.
 
-Prior to this, I obtained a BSc degree with First Class Honours in Natural Science from the University of Example.
+My research interests lie in controllable AIGC, multimodal large models, and unified multimodal modeling. I am particularly interested in diffusion model alignment, multimodal reasoning, and efficient paradigms that bridge understanding and generation within a single architecture.
 
-My current research focuses on investigating the mathematical principles of natural philosophy.
+Recently, I have worked on TreeMatch-RL, a tree-based distribution matching framework for diverse and efficient diffusion alignment, and I2E, a multimodal system that transforms image pixels into actionable interactive environments for text-guided image editing. More broadly, I aim to build controllable and reliable generative systems with stronger structure awareness and interactive reasoning capabilities.

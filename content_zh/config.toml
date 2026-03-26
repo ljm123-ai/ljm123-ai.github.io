@@ -1,22 +1,26 @@
 [site]
-title = "刘嘉乐"
-description = "某某大学博士生个人主页。"
-last_updated = "2025年11月18日"
+title = "Jiaming Li"
+description = "Jiaming Li 的个人学术主页，关注可控 AIGC、多模态大模型与统一多模态建模。"
+favicon = "/favicon.svg"
+last_updated = "2026年3月26日"
 
 [author]
-name = "刘嘉乐"
-title = "博士生"
-institution = "某某大学"
+name = "Jiaming Li"
+title = "本科研究者"
+institution = "电子科技大学"
 
 [social]
-location = "城市，国家"
+email = "18955963975@163.com"
+location = "中国，四川成都"
+location_url = "https://maps.google.com/?q=University+of+Electronic+Science+and+Technology+of+China"
 location_details = [
-  "理科楼 123 室，",
-  "大学路，城市，国家"
+  "电子科技大学，",
+  "中国，四川成都"
 ]
+github = "https://github.com/ljm123-ai"
 
 [[navigation]]
-title = "关于我"
+title = "关于"
 type = "page"
 target = "about"
 href = "/"
@@ -28,22 +32,22 @@ target = "publications"
 href = "/publications"
 
 [[navigation]]
-title = "教学"
+title = "研究"
 type = "page"
-target = "teaching"
-href = "/teaching"
+target = "research"
+href = "/research"
 
 [[navigation]]
-title = "奖项"
+title = "荣誉"
 type = "page"
 target = "awards"
 href = "/awards"
 
 [[navigation]]
-title = "服务"
+title = "竞赛"
 type = "page"
-target = "services"
-href = "/services"
+target = "competitions"
+href = "/competitions"
 
 [[navigation]]
 title = "简历"

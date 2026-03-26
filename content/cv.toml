@@ -1,3 +1,4 @@
 type = "text"
-title = "CV"
+title = "Curriculum Vitae"
+description = "A concise academic CV."
 source = "cv.md"

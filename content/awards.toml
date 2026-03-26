@@ -1,27 +1,33 @@
 type = "card"
-title = "Awards"
-description = "Honors and awards I have received."
+title = "Honors"
+description = "Scholarships, academic distinctions, and merit-based recognitions."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
+title = "Recommended Admission to the M.Eng. Program in Computer Technology"
+subtitle = "Huazhong University of Science and Technology"
+date = "2026"
+content = "Admitted through the merit-based postgraduate recommendation track."
+
+[[items]]
+title = "Ranked Second in Major"
+subtitle = "University of Electronic Science and Technology of China"
+date = "2026"
+content = "Graduating near the top of the Computer Technology cohort while concurrently completing a B.S. in Mathematics."
+
+[[items]]
+title = "First-class Academic Scholarship"
+subtitle = "University of Electronic Science and Technology of China"
 date = "2025"
-content = "Description of the award."
+content = "Awarded for outstanding academic performance and sustained excellence in coursework and research."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
+title = "First-class Academic Scholarship"
+subtitle = "University of Electronic Science and Technology of China"
 date = "2024"
-content = "Description of the award."
+content = "Recognized for excellent academic standing and overall performance."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
+title = "First-class Academic Scholarship"
+subtitle = "University of Electronic Science and Technology of China"
 date = "2023"
-content = "Description of the award."
-
-[[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2022"
-content = "Description of the award."
+content = "Received in recognition of academic achievement during undergraduate study."

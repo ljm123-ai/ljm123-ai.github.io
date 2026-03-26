@@ -1,4 +1,4 @@
 type = "publication"
-title = "论文"
-description = "我的研究成果列表。"
+title = "论文与预印本"
+description = "已发表、预印本与在研论文，主要围绕可控生成和多模态智能。"
 source = "publications.bib"

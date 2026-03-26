@@ -1,4 +1,4 @@
 type = "publication"
-title = "Publications"
-description = "A collection of my research work."
+title = "Publications & Preprints"
+description = "Selected publications, preprints, and ongoing manuscripts in controllable generation and multimodal AI."
 source = "publications.bib"

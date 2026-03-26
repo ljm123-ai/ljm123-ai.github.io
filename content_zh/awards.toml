@@ -1,27 +1,33 @@
 type = "card"
-title = "奖项"
-description = "我获得的荣誉与奖项。"
+title = "荣誉"
+description = "奖学金、学术荣誉与阶段性学业成果。"
 
 [[items]]
-title = "示例奖项"
-subtitle = "颁发机构"
+title = "华中科技大学计算机技术专业推免录取"
+subtitle = "华中科技大学"
+date = "2026"
+content = "通过推免渠道获得计算机技术专业硕士研究生录取资格。"
+
+[[items]]
+title = "专业排名第二"
+subtitle = "电子科技大学"
+date = "2026"
+content = "在计算机技术专业中保持年级前列，同时完成数学双学位培养。"
+
+[[items]]
+title = "一等学业奖学金"
+subtitle = "电子科技大学"
 date = "2025"
-content = "奖项说明。"
+content = "因学业成绩与科研表现突出获得表彰。"
 
 [[items]]
-title = "示例奖项"
-subtitle = "颁发机构"
+title = "一等学业奖学金"
+subtitle = "电子科技大学"
 date = "2024"
-content = "奖项说明。"
+content = "因综合学业表现优异获得奖学金。"
 
 [[items]]
-title = "示例奖项"
-subtitle = "颁发机构"
+title = "一等学业奖学金"
+subtitle = "电子科技大学"
 date = "2023"
-content = "奖项说明。"
-
-[[items]]
-title = "示例奖项"
-subtitle = "颁发机构"
-date = "2022"
-content = "奖项说明。"
+content = "本科阶段获得的一等学业奖学金。"

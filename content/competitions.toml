@@ -1,0 +1,24 @@
+type = "card"
+title = "Competitions"
+description = "Selected competition achievements in software engineering and mathematical modeling."
+
+[[items]]
+title = "16th Lanqiao Cup National Software and IT Competition"
+subtitle = "National Second Prize"
+date = "Jun 2025"
+content = "Recognized at the national level for algorithmic problem solving and software development capability."
+tags = ["Programming", "Software", "National Competition"]
+
+[[items]]
+title = "16th China Undergraduate Mathematical Contest in Modeling"
+subtitle = "First Prize, Sichuan Province"
+date = "Dec 2024"
+content = "Awarded for mathematical modeling, quantitative analysis, and solution design in an intensive team-based competition."
+tags = ["Mathematical Modeling", "Applied Mathematics", "Provincial Award"]
+
+[[items]]
+title = "Huawei Spark Cup Mathematical Modeling Elite League"
+subtitle = "National First Prize"
+date = "Oct 2024"
+content = "Received top national recognition for modeling methodology, analytical rigor, and problem-solving performance."
+tags = ["Mathematical Modeling", "National Competition", "Data Analysis"]

@@ -1,0 +1,30 @@
+type = "card"
+title = "Research"
+description = "Current research themes and representative ongoing projects."
+
+[[items]]
+title = "Tree-Based Distribution Matching for Diffusion Alignment"
+subtitle = "Controllable AIGC / Diffusion Reinforcement Learning"
+date = "Ongoing"
+content = """
+Developing **TreeMatch-RL**, a tree-based distribution matching framework for online reinforcement learning in diffusion model alignment. The project introduces a GFlowNet-inspired objective with Softmax-TB loss and adaptive SDE bifurcation to mitigate mode collapse while preserving fidelity and inference efficiency.
+"""
+tags = ["Diffusion Models", "RLHF", "GFlowNet", "Controllable Generation"]
+
+[[items]]
+title = "Efficient Unification of Multimodal Understanding and Generation"
+subtitle = "Multimodal Large Models / Unified Models"
+date = "Ongoing"
+content = """
+Investigating efficient architectures that unify multimodal understanding and generation without relying on heavy noise-based training paradigms. The current focus is on harmonizing discriminative and generative objectives within a shared representation space, and on bridging sparse textual semantics with dense visual features through perceptual intermediates.
+"""
+tags = ["Unified Models", "Multimodal Learning", "Representation Learning"]
+
+[[items]]
+title = "Vision-Language-Action Reasoning for Structured Image Editing"
+subtitle = "Multimodal Agents / Image Editing"
+date = "2025-2026"
+content = """
+Contributed to the framework design and end-to-end implementation of a vision-language-action agent for text-guided image editing. The system decomposes editing goals into atomic actions via structured reasoning and supports more faithful, compositional, and physics-aware image manipulation.
+"""
+tags = ["VLA Agents", "Image Editing", "Reasoning", "Multimodal Agents"]
