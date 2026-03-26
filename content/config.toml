@@ -1,13 +1,14 @@
 [site]
 title = "Jiaming Li"
+url = "https://ljm123-ai.github.io"
 description = "Personal academic website of Jiaming Li, focusing on controllable AIGC, multimodal large models, and unified multimodal modeling."
 favicon = "/favicon.svg"
-last_updated = "March 26, 2026"
+last_updated = "2026-03-26"
 
 [author]
 name = "Jiaming Li"
-title = "Undergraduate Researcher"
-institution = "University of Electronic Science and Technology of China"
+title = "Undergraduate Researcher / Incoming Master's Student"
+institution = "UESTC · Incoming to Huazhong University of Science and Technology (HUST)"
 avatar = "/bio.jpg"
 
 [social]

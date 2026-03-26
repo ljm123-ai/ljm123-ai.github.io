@@ -1,4 +1,4 @@
-I am an undergraduate researcher at the University of Electronic Science and Technology of China (UESTC), where I am pursuing a B.Eng. in Computer Technology and a B.S. in Mathematics, both expected in June 2026. I have also been recommended for admission to the M.Eng. program in Computer Technology at Huazhong University of Science and Technology, which I will join in September 2026.
+I am currently an undergraduate researcher at the University of Electronic Science and Technology of China (UESTC), where I am pursuing a B.Eng. in Computer Technology and a B.S. in Mathematics, both expected in June 2026. I have also been recommended for admission to the M.Eng. program in Computer Technology at Huazhong University of Science and Technology (HUST), which I will join in September 2026.
 
 My research interests lie in controllable AIGC, multimodal large models, and unified multimodal modeling. I am particularly interested in diffusion model alignment, multimodal reasoning, and efficient paradigms that bridge understanding and generation within a single architecture.
 

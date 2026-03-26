@@ -34,7 +34,7 @@
 \section*{Education}
 
 \noindent
-\textbf{Huazhong University of Science and Technology} \hfill Wuhan, Hubei, China \\
+\textbf{Huazhong University of Science and Technology (HUST)} \hfill Wuhan, Hubei, China \\
 \textit{Master of Engineering in Computer Technology} \hfill Sep. 2026 (Expected)
 \begin{itemize}
     \item \textbf{Notes:} Project 985; Recommended for Admission (Postgraduate Recommendation).

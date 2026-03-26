@@ -5,7 +5,7 @@
 
 ## Education
 
-**Huazhong University of Science and Technology**, Wuhan, China  
+**Huazhong University of Science and Technology (HUST)**, Wuhan, China  
 *Incoming Master of Engineering in Computer Technology, to begin in September 2026*
 
 - Admitted through the merit-based postgraduate recommendation track.
@@ -30,7 +30,7 @@
 ## Honors & Distinctions
 
 - First-class Academic Scholarship (2023, 2024, 2025)
-- Recommended admission to the M.Eng. program in Computer Technology at Huazhong University of Science and Technology
+- Recommended admission to the M.Eng. program in Computer Technology at Huazhong University of Science and Technology (HUST)
 - Ranked second in major at the University of Electronic Science and Technology of China
 
 ## Competition Awards
