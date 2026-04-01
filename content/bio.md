@@ -1,5 +1,12 @@
-I am currently an undergraduate researcher at the University of Electronic Science and Technology of China (UESTC), where I am pursuing a B.Eng. in Computer Technology and a B.S. in Mathematics, both expected in June 2026. I have also been recommended for admission to the M.Eng. program in Computer Technology at Huazhong University of Science and Technology (HUST), which I will join in September 2026.
+**Education.**
+- University of Electronic Science and Technology of China (UESTC) | B.Eng. in Computer Technology + B.S. in Mathematics | Sep 2022 - Jun 2026 (expected)
+- Huazhong University of Science and Technology (HUST) | Incoming M.Eng. in Computer Technology (admitted via merit-based recommendation) | Sep 2026 -
 
-My research interests lie in controllable AIGC, multimodal large models, and unified multimodal modeling. I am particularly interested in diffusion model alignment, multimodal reasoning, and efficient paradigms that bridge understanding and generation within a single architecture.
+**Experience.**
+- Kuaishou, E-commerce Department, Hangzhou | AIGC Algorithm Intern | Mar 10, 2026 - Present
 
-Recently, I have worked on TreeMatch-RL, a tree-based distribution matching framework for diverse and efficient diffusion alignment, and I2E, a multimodal system that transforms image pixels into actionable interactive environments for text-guided image editing. More broadly, I aim to build controllable and reliable generative systems with stronger structure awareness and interactive reasoning capabilities.
+**Research Focus.** Controllable AIGC, multimodal large models, and unified multimodal modeling, with particular interest in diffusion alignment and multimodal reasoning.
+
+**Selected Work.** TreeMatch-RL, a tree-based distribution matching framework for diverse and efficient diffusion alignment; and I2E, a multimodal system that transforms image pixels into actionable interactive environments for text-guided image editing.
+
+**Long-term Goal.** Build controllable and reliable generative systems with stronger structure awareness and interactive reasoning capabilities.

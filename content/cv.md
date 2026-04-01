@@ -3,17 +3,22 @@
 - Email: [18955963975@163.com](mailto:18955963975@163.com)
 - GitHub: [github.com/ljm123-ai](https://github.com/ljm123-ai)
 
+## Profile
+
+- Research focus | Controllable AIGC, multimodal large models, unified multimodal modeling
+- Education plan | B.Eng. + B.S. at UESTC (expected Jun 2026), incoming M.Eng. at HUST (from Sep 2026)
+- Current role | AIGC Algorithm Intern, Kuaishou E-commerce (Hangzhou)
+
 ## Education
 
-**Huazhong University of Science and Technology (HUST)**, Wuhan, China  
-*Incoming Master of Engineering in Computer Technology, to begin in September 2026*
+- University of Electronic Science and Technology of China (UESTC), Chengdu, China | B.Eng. in Computer Technology + B.S. in Mathematics | Sep 2022 - Jun 2026 (expected)
+- Huazhong University of Science and Technology (HUST), Wuhan, China | Incoming M.Eng. in Computer Technology (admitted via merit-based recommendation) | Sep 2026 -
+- Academic standing | Ranked second in major at UESTC
 
-- Admitted through the merit-based postgraduate recommendation track.
+## Experience
 
-**University of Electronic Science and Technology of China**, Chengdu, China  
-*B.Eng. in Computer Technology and B.S. in Mathematics, September 2022 - June 2026 (expected)*
-
-- Ranked second in major.
+- Kuaishou, E-commerce Department, Hangzhou, China | AIGC Algorithm Intern | Mar 10, 2026 - Present
+- Focus | AIGC algorithm development for e-commerce, especially controllable generation and multimodal modeling
 
 ## Research Interests
 
