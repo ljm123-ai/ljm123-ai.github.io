@@ -57,15 +57,15 @@
 \end{tabular}
 
 % --- 研究成果 ---
-\section*{Research Papers \hfill \small \textit{Interests: Controllable AIGC; Multimodal Large Models; Unified Models}}
+\section*{Research Papers \hfill \small \textit{Interests: Controllable AIGC; Multimodal Large Models; Unified Models; Spatial World Model (VLA)}}
 \begin{enumerate}
-    % 第一篇：TreeMatch-RL (一作)
-    \item \textbf{J. Li}, C. Zhu, "TreeMatch-RL: Tree-based Distribution Matching Online RL for Diverse and Efficient Diffusion Model Alignment," - \textbf{First author. Targeted at NeurIPS 2026 (Theoretical modeling and draft completed).}
-    \\ \small \textit{Proposed a GFlowNet-based alignment framework to mitigate mode collapse in diffusion RLHF. Introduced the Softmax-TB loss for global flow balance without partition function estimation and a 27-branch tree-sampling structure with adaptive SDE bifurcation to achieve diverse, high-fidelity generation with optimized inference overhead.}
+    % 第一篇：TMPO (一作)
+    \item \textbf{J. Li}, C. Zhu, Z. Ma, N. Yi, Y. Bao, L. Sun, Q. Lv, X. Fang, D. Liu, J. Li, K. He, and B. Zhou, "TMPO: Trajectory Matching Policy Optimization for Diverse and Efficient Diffusion Alignment," - \textbf{First author. Under review.}
+    \\ \small \textit{Proposed a trajectory-level reward distribution matching framework to mitigate mode collapse in diffusion RL alignment. Introduced the Softmax Trajectory Balance (Softmax-TB) objective to match policy probabilities to a reward-induced Boltzmann distribution, and Dynamic Stochastic Tree Sampling where trajectories share denoising prefixes and branch at dynamically scheduled steps.}
     
     \vspace{6pt} 
     % 第二篇：I2E (四作，强调 VLA 贡献)
-    \item J. Yu, J. Xiao, C. Zhu, \textbf{J. Li}, J. Li, H. Deng, X. Wang, G. Jia, J. Li, Z. Ma, X. Bai, and B. Zhou, "I2E: From Image Pixels to Actionable Interactive Environments for Text-Guided Image Editing," arXiv preprint arXiv:2601.03741, 2026. - \textbf{Fourth author. Under review at ACL 2026.}
+    \item J. Yu, J. Xiao, C. Zhu, \textbf{J. Li}, J. Li, H. Deng, X. Wang, G. Jia, J. Li, Z. Ma, X. Bai, and B. Zhou, "I2E: From Image Pixels to Actionable Interactive Environments for Text-Guided Image Editing," arXiv preprint arXiv:2601.03741, 2026. - \textbf{Fourth author. Accepted by ACL 2026 Main Conference.}
     \\ \small \textit{Led the framework design and end-to-end implementation of the Vision-Language-Action (VLA) agent. Developed a Chain-of-Thought (CoT) reasoning pipeline for atomic action parsing and spearheaded full-scale experimental validation on I2E-BENCH to achieve structured, physics-aware compositional image editing.}
 \end{enumerate}
 
