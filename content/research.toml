@@ -3,11 +3,11 @@ title = "Research"
 description = "Current research themes and representative ongoing projects."
 
 [[items]]
-title = "Tree-Based Distribution Matching for Diffusion Alignment"
+title = "Trajectory Matching Policy Optimization for Diffusion Alignment"
 subtitle = "Controllable AIGC / Diffusion Reinforcement Learning"
-date = "Ongoing"
+date = "Under Review"
 content = """
-Developing **TreeMatch-RL**, a tree-based distribution matching framework for online reinforcement learning in diffusion model alignment. The project introduces a GFlowNet-inspired objective with Softmax-TB loss and adaptive SDE bifurcation to mitigate mode collapse while preserving fidelity and inference efficiency.
+Developing **TMPO**, a trajectory matching policy optimization framework that replaces scalar reward maximization with trajectory-level reward distribution matching for diffusion model alignment. The method introduces a Softmax Trajectory Balance (Softmax-TB) objective and Dynamic Stochastic Tree Sampling to mitigate mode collapse while preserving diversity and efficiency.
 """
 tags = ["Diffusion Models", "RLHF", "GFlowNet", "Controllable Generation"]
 

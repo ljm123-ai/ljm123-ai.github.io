@@ -26,11 +26,12 @@
 - 多模态大模型
 - 统一多模态建模
 - 扩散模型对齐
+- 空间世界模型 (VLA)
 
 ## 代表性研究
 
-1. **TreeMatch-RL: Tree-based Distribution Matching Online RL for Diverse and Efficient Diffusion Model Alignment。** 一作，在研论文，目标投稿 NeurIPS 2026。该工作提出受 GFlowNet 启发的扩散对齐框架，通过 Softmax-TB 损失与树式采样机制缓解强化学习对齐中的模式坍塌问题。
-2. **I2E: From Image Pixels to Actionable Interactive Environments for Text-Guided Image Editing。** 四作，[arXiv:2601.03741](https://arxiv.org/abs/2601.03741)，目前正在投稿 ACL 2026。本人主要参与视觉-语言-动作智能体设计与实验验证。
+1. **TMPO: Trajectory Matching Policy Optimization for Diverse and Efficient Diffusion Alignment。** 一作，投稿中。该工作提出轨迹级奖励分布匹配框架，通过 Softmax-TB 目标与动态随机树采样机制缓解扩散模型强化学习对齐中的模式坍塌问题。
+2. **I2E: From Image Pixels to Actionable Interactive Environments for Text-Guided Image Editing。** 四作，[arXiv:2601.03741](https://arxiv.org/abs/2601.03741)，已被 ACL 2026 Main Conference 接收。本人主要参与视觉-语言-动作智能体设计与实验验证。
 
 ## 荣誉与学术奖励
 

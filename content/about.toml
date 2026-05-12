@@ -6,7 +6,8 @@ research_interests = [
   "Controllable AIGC",
   "Multimodal Large Models",
   "Unified Multimodal Modeling",
-  "Diffusion Model Alignment"
+  "Diffusion Model Alignment",
+  "Spatial World Model (VLA)"
 ]
 
 [[sections]]

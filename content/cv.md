@@ -26,11 +26,12 @@
 - Multimodal large models
 - Unified multimodal modeling
 - Diffusion model alignment
+- Spatial World Model (VLA)
 
 ## Selected Research
 
-1. **TreeMatch-RL: Tree-based Distribution Matching Online RL for Diverse and Efficient Diffusion Model Alignment.** First-author manuscript targeting NeurIPS 2026. This work proposes a GFlowNet-inspired alignment framework with Softmax-TB loss and adaptive tree sampling to mitigate mode collapse in diffusion reinforcement learning.
-2. **I2E: From Image Pixels to Actionable Interactive Environments for Text-Guided Image Editing.** Fourth author. [arXiv:2601.03741](https://arxiv.org/abs/2601.03741), under review for ACL 2026. I contributed to the design and implementation of the vision-language-action agent and the experimental validation pipeline.
+1. **TMPO: Trajectory Matching Policy Optimization for Diverse and Efficient Diffusion Alignment.** First author, under review. This work proposes a trajectory-level reward distribution matching framework with Softmax-TB objective and Dynamic Stochastic Tree Sampling to mitigate mode collapse in diffusion reinforcement learning.
+2. **I2E: From Image Pixels to Actionable Interactive Environments for Text-Guided Image Editing.** Fourth author. [arXiv:2601.03741](https://arxiv.org/abs/2601.03741), accepted by ACL 2026 Main Conference. I contributed to the design and implementation of the vision-language-action agent and the experimental validation pipeline.
 
 ## Honors & Distinctions
 

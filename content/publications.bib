@@ -1,11 +1,11 @@
-@unpublished{li2026treematchrl,
+@unpublished{li2026tmpo,
   selected = {true},
-  title = {TreeMatch-RL: Tree-based Distribution Matching Online RL for Diverse and Efficient Diffusion Model Alignment},
-  author = {Jiaming Li and C. Zhu},
+  title = {TMPO: Trajectory Matching Policy Optimization for Diverse and Efficient Diffusion Alignment},
+  author = {Jiaming Li and C. Zhu and Z. Ma and N. Yi and Y. Bao and L. Sun and Q. Lv and X. Fang and D. Liu and J. Li and K. He and B. Zhou},
   year = {2026},
-  journal = {Manuscript targeting NeurIPS 2026},
-  abstract = {We study diversity degradation in reinforcement learning based alignment of diffusion models and propose TreeMatch-RL, a tree-based distribution matching framework for online optimization. The method introduces a Softmax-TB objective for global flow balance without explicit partition function estimation and combines it with adaptive SDE bifurcation over a multi-branch tree sampler. The resulting framework mitigates mode collapse while preserving high-fidelity generation and keeping inference overhead under control.},
-  description = {First-author manuscript proposing a GFlowNet-inspired alignment framework with Softmax-TB loss and adaptive tree sampling to reduce mode collapse in diffusion reinforcement learning.},
+  journal = {Under Review},
+  abstract = {Reinforcement learning (RL) has shown extraordinary potential in aligning diffusion models to downstream tasks, yet most of them still suffer from significant reward hacking, which degrades generative diversity and quality by inducing visual mode collapse and amplifying unreliable rewards. We identify the root cause as the mode-seeking nature of these methods and propose Trajectory Matching Policy Optimization (TMPO), which replaces scalar reward maximization with trajectory-level reward distribution matching. TMPO introduces a Softmax Trajectory Balance (Softmax-TB) objective to match the policy probabilities of K trajectories to a reward-induced Boltzmann distribution. To further reduce multi-trajectory training time, TMPO incorporates Dynamic Stochastic Tree Sampling, where trajectories share denoising prefixes and branch at dynamically scheduled steps.},
+  description = {First-author paper proposing a trajectory-level distribution matching framework with Softmax-TB loss and dynamic stochastic tree sampling for diverse and efficient diffusion alignment. Under review.},
   keywords = {Controllable AIGC, Diffusion Models, Reinforcement Learning, Alignment}
 }
 
@@ -15,9 +15,9 @@
   author = {J. Yu and J. Xiao and C. Zhu and Jiaming Li and J. Li and H. Deng and X. Wang and G. Jia and J. Li and Z. Ma and X. Bai and B. Zhou},
   year = {2026},
   month = jan,
-  journal = {arXiv preprint arXiv:2601.03741},
+  journal = {ACL 2026 Main Conference},
   url = {https://arxiv.org/abs/2601.03741},
   abstract = {I2E converts image pixels into actionable interactive environments for compositional image editing driven by natural language instructions. The framework integrates structured perception, reasoning, and action execution so that a vision-language-action agent can decompose editing intentions into atomic operations and produce more faithful and physically aware edits. Extensive experiments on I2E-BENCH validate the effectiveness of the proposed pipeline.},
-  description = {Fourth-author work under review at ACL 2026; I contributed to the design and implementation of the vision-language-action agent and led experimental validation on I2E-BENCH.},
+  description = {Fourth-author work accepted by ACL 2026 Main Conference; I contributed to the design and implementation of the vision-language-action agent and led experimental validation on I2E-BENCH.},
   keywords = {Multimodal Large Models, Vision-Language-Action, Image Editing, Agents}
 }
